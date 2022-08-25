@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Weather App
+
+A weather app made using React JS which uses the Open Weather Map API to make calls to a restful api to return the current weather data and change background accordingly.
+
+### Screenshots:
+
+![image](https://user-images.githubusercontent.com/90963726/186764326-13130c5e-8180-42d3-b0b2-ed2ae9b60618.png)
+
+![image](https://user-images.githubusercontent.com/90963726/186764570-0733d631-b6dc-451d-a964-8c14f8222dab.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
